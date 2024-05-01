@@ -1,0 +1,1 @@
+g++ Line.cpp -lglut -lGL -lGLEW -lGLU -o Line
